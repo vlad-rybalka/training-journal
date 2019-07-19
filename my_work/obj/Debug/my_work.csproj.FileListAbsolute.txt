@@ -1,0 +1,14 @@
+c:\users\adminpc\documents\visual studio 2015\Projects\my_work\my_work\bin\Debug\my_work.exe.config
+c:\users\adminpc\documents\visual studio 2015\Projects\my_work\my_work\bin\Debug\my_work.exe
+c:\users\adminpc\documents\visual studio 2015\Projects\my_work\my_work\bin\Debug\my_work.pdb
+c:\users\adminpc\documents\visual studio 2015\Projects\my_work\my_work\obj\Debug\my_work.csprojResolveAssemblyReference.cache
+c:\users\adminpc\documents\visual studio 2015\Projects\my_work\my_work\obj\Debug\my_work.Properties.Resources.resources
+c:\users\adminpc\documents\visual studio 2015\Projects\my_work\my_work\obj\Debug\my_work.csproj.GenerateResource.Cache
+c:\users\adminpc\documents\visual studio 2015\Projects\my_work\my_work\obj\Debug\my_work.exe
+c:\users\adminpc\documents\visual studio 2015\Projects\my_work\my_work\obj\Debug\my_work.pdb
+C:\Users\adminPC\Documents\Visual Studio 2015\Projects\my_work\my_work\obj\Debug\my_work.TrainingLog.resources
+C:\Users\adminPC\Documents\Visual Studio 2015\Projects\my_work\my_work\obj\Debug\my_work.Calendar.resources
+C:\Users\adminPC\Documents\Visual Studio 2015\Projects\my_work\my_work\obj\Debug\my_work.Exercise.resources
+C:\Users\adminPC\Documents\Visual Studio 2015\Projects\my_work\my_work\obj\Debug\my_work.AddExercise.resources
+C:\Users\adminPC\Documents\Visual Studio 2015\Projects\my_work\my_work\obj\Debug\my_work.EditExercise.resources
+C:\Users\adminPC\Documents\Visual Studio 2015\Projects\my_work\my_work\bin\Debug\text.txt
